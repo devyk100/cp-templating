@@ -50,3 +50,6 @@
 ### Memory limit exceeded:
 - What is the max amount of memory your algorithm should need?
 - Are you clearing all data structures between test cases?
+
+### Last Resort:
+- Rewrite your solution from the start.
