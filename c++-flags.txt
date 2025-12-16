@@ -1,0 +1,11 @@
+-std=c++20
+-std=c++17
+-Wall -Wextra -Wshadow -Wconversion -Wfloat-equal -Wduplicated-cond -Wlogical-op
+in c++
+#WARNING : soafomewf
+gives warning everytime while compiling
+-fsanitize=undefined
+-fsanitize=address
+-g
+-D_GLIBCXX_DEBUG
+-O2
